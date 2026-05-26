@@ -26,3 +26,28 @@ The goal is to support frontline operational budget management with clearer visu
 Status
 
 Currently in planning and early prototype phase.
+
+Planned Analysis Logic
+
+The dashboard is planned to evaluate operational budget conditions using Excel-based monthly data.
+
+Example status logic:
+
+- Green:
+  Budget usage is within the expected range.
+
+- Yellow:
+  Budget consumption pace is slightly higher than expected.
+
+- Red:
+  Monthly forecast exceeds the planned budget.
+
+The system will also generate warning comments to support early operational decision-making.
+
+Future Ideas
+
+- Forecast analysis
+- Vendor trend monitoring
+- Budget anomaly detection
+- Monthly comparison dashboard
+- Excel automation support
